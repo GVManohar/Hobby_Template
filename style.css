@@ -1,0 +1,140 @@
+@media (max-width: 767px) {
+    .hobby {
+    padding: 0rem 3rem !important;
+}
+    .nav ul {
+        margin-top: 0px !important;
+    }
+    .nav ul li {
+        padding: 1px 4px !important;
+        float: none !important;
+    }
+    .nav h6 {
+    padding: 15px 36px !important;
+}
+    .content {
+        margin-top: 4rem !important;
+    padding: 1rem 0px !important;
+}
+.details .text {
+    width: 100% !important;
+    padding: 0rem 0rem !important;
+    margin-top: 11rem !important;
+}
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .hobby {
+    padding: 0rem 0rem !important;
+}
+.nav .btn {
+    float: right !important;
+}
+.nav ul {
+    margin-top: 14px !important;
+}
+.nav ul li {
+    padding: 1px 16px !important;
+    }
+.task {
+    height: 36rem !important;
+}
+.nav h6 {
+    padding: 17px 92px !important;
+}
+.content {
+    padding: 12px 63px !important;
+}
+.details {
+    margin-top: 6rem !important;
+}
+.details .text {
+    width: 132% !important;
+    padding: 0rem 9rem !important;
+}
+.details .num {
+    width: 90% !important;
+}
+}
+
+
+.hobby {
+    padding: 0rem 3rem;
+}
+.task {
+    /* padding: 2rem 5rem; */
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   height: 56rem;
+}
+.nav h6 {
+    padding: 32px 155px;
+}
+.nav ul {
+    margin-top: 22px;
+}
+.nav ul li {
+	padding: 10px 25px;
+    list-style: none;
+    float: left;
+    
+}
+.nav ul li a {
+	font-weight: 600;
+	font-size: 12px;
+	font-family: sans-serif;
+	color: black;
+	text-decoration: none;
+}
+.nav button.btn.btn-success {
+   font-weight: 500;
+    font-size: 15px;
+    border: 0;
+    padding: 4px 25px;
+    padding-bottom: 7px;
+}
+.content {
+    padding: 7rem 122px;
+}
+.content h1 {
+    font-weight: 700;
+}
+.content p {
+    margin-top: 20px;
+    color: #86888b;
+    font-size: 14px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+.content button.btn.btn-outline-success {
+    font-weight: 500;
+    font-family: inherit;
+    font-size: 15px;
+    padding-bottom: 8px;
+}
+.details .text h6 {
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.details .text p {
+    font-size: 14px;
+    color: #878686;
+}
+.details .num h2 {
+   color:#44a944;
+    font-weight: 700;
+}
+.details {
+    margin-top: 10rem;
+}
+.details .num {
+    width: 66%;
+}
+.details .num p {
+    font-size: 14px;
+    color: #878686;
+}
+.details .text {
+    width: 123%;
+    padding: 0rem 14rem;
+}
